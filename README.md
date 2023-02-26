@@ -1,5 +1,6 @@
 # Pre-requisites
-If running from source, Rust programming language needs to be installed.
+- Logged into the Steam app & it is running.
+- If building/running from source, Rust programming language needs to be installed.
 
 # Usage
 ## From source
