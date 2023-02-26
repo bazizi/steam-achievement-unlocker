@@ -4,7 +4,7 @@ If running from source, Rust programming language needs to be installed.
 # Usage
 ## From source
 ```sh
-steam-achievement-unlocker.exe <AppId> <achievement name>
+cargo run -- <AppId> <achievement name>
 ```
 ## From binary
 ```sh
