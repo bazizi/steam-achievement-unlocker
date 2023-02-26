@@ -1,6 +1,6 @@
 # Usage
 ```sh
-Usage steam-achievement-unlocker.exe <AppId> <achievement name>
+steam-achievement-unlocker.exe <AppId> <achievement name>
 ```
 
 # Example
